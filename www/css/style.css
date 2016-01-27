@@ -1,1 +1,8 @@
 /* Empty. Add your own CSS if you like */
+
+
+/* start  覆盖ionic */
+.item .badge {
+  right: 48px;
+}
+/* end 覆盖ionic */
